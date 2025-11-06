@@ -109,5 +109,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 
 # Supavit Plubcheen CE2/2
-# interese : mathematics and programming
+# intereste : mathematics and programming
 # hobby : gaming
